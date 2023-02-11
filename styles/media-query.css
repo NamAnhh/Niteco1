@@ -23,9 +23,6 @@
         max-width: 100%;
         transform: translate(20px, -50%);
     }
-    .body-content .wrap-main-content .main-content .row .col-4 .card-title {
-        min-height: unset;
-    }
 }
 @media only screen and (max-width: 575px) {
     .body-content .banner .widget {
